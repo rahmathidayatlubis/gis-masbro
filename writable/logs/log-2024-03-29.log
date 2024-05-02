@@ -1,0 +1,6 @@
+CRITICAL - 2024-03-29 15:41:12 --> ErrorException: Cannot redeclare App\Controllers\Home::polyline()
+in APPPATH\Controllers\Home.php on line 67.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-29 15:41:12 --> ErrorException: Cannot redeclare App\Controllers\Home::polyline()
+in APPPATH\Controllers\Home.php on line 67.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
